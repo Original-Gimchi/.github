@@ -2,6 +2,10 @@
 
 # Team.OG
 
+병합당함 응애 ^^ 
+레포보고싶으면 여기로
+<a href="https://github.com/Team-INSERT" target="_blank" >링크</a>
+
 <table>
     <tr>
         <td align="center">
