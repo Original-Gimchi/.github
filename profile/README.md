@@ -9,8 +9,8 @@
 <table>
     <tr>
         <td align="center">
-            <a href="https://github.com/5ewon06">
-                <img alt="권세원" src="https://avatars.githubusercontent.com/5ewon06" width="100" />
+            <a href="https://github.com/5ewon">
+                <img alt="권세원" src="https://avatars.githubusercontent.com/5ewon" width="100" />
             </a>
         </td>
         <td align="center">
